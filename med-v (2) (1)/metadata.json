@@ -1,0 +1,5 @@
+{
+  "name": "Med-V",
+  "description": "Secure biometric-based emergency medical access application.",
+  "requestFramePermissions": ["camera"]
+}
